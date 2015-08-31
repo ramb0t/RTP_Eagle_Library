@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.3.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -237,13 +237,16 @@
 <wire x1="2.5" y1="5.9" x2="3.75" y2="5.9" width="0.127" layer="21"/>
 <text x="-3.1" y="4.1" size="1.016" layer="25">&gt;Name</text>
 <text x="-3.1" y="2.6" size="1.016" layer="27">&gt;Value</text>
-<hole x="0" y="0" drill="2.5"/>
+<hole x="0" y="0" drill="3"/>
 </package>
 <package name="1744426-3-NOSLOT">
+<hole x="0" y="0" drill="2"/>
 <wire x1="-1" y1="-1" x2="-1" y2="1" width="0.127" layer="45" curve="-92.937601"/>
 <wire x1="1" y1="-1" x2="1" y2="1" width="0.127" layer="45" curve="92.937601"/>
 <wire x1="-1" y1="1" x2="1" y2="1" width="0.127" layer="45"/>
 <wire x1="-1" y1="-1" x2="1" y2="-1" width="0.127" layer="45"/>
+<hole x="-0.4" y="0" drill="2"/>
+<hole x="0.4" y="0" drill="2"/>
 <wire x1="5" y1="-2.7" x2="5" y2="5.9" width="0.127" layer="21"/>
 <wire x1="5" y1="5.9" x2="5" y2="9.9" width="0.127" layer="21"/>
 <wire x1="3.75" y1="5.9" x2="-3.75" y2="5.9" width="0.127" layer="21"/>
@@ -261,13 +264,15 @@
 <wire x1="3.75" y1="5.9" x2="5" y2="5.9" width="0.127" layer="21"/>
 <text x="-4.35" y="4.1" size="1.016" layer="25">&gt;Name</text>
 <text x="-4.35" y="2.6" size="1.016" layer="27">&gt;Value</text>
-<hole x="0" y="0" drill="2.5"/>
 </package>
 <package name="1744426-4-NOSLOT">
+<hole x="0" y="0" drill="2"/>
 <wire x1="-1" y1="-1" x2="-1" y2="1" width="0.127" layer="45" curve="-92.937601"/>
 <wire x1="1" y1="-1" x2="1" y2="1" width="0.127" layer="45" curve="92.937601"/>
 <wire x1="-1" y1="1" x2="1" y2="1" width="0.127" layer="45"/>
 <wire x1="-1" y1="-1" x2="1" y2="-1" width="0.127" layer="45"/>
+<hole x="-0.4" y="0" drill="2"/>
+<hole x="0.4" y="0" drill="2"/>
 <wire x1="6.25" y1="-2.7" x2="6.25" y2="5.9" width="0.127" layer="21"/>
 <wire x1="6.25" y1="5.9" x2="6.25" y2="9.9" width="0.127" layer="21"/>
 <wire x1="5" y1="5.9" x2="-5" y2="5.9" width="0.127" layer="21"/>
@@ -286,13 +291,15 @@
 <wire x1="5" y1="5.9" x2="6.25" y2="5.9" width="0.127" layer="21"/>
 <text x="-5.6" y="4.1" size="1.016" layer="25">&gt;Name</text>
 <text x="-5.6" y="2.6" size="1.016" layer="27">&gt;Value</text>
-<hole x="0" y="0" drill="2.5"/>
 </package>
 <package name="1744426-5-NOSLOT">
+<hole x="0" y="0" drill="2"/>
 <wire x1="-1" y1="-1" x2="-1" y2="1" width="0.127" layer="45" curve="-92.937601"/>
 <wire x1="1" y1="-1" x2="1" y2="1" width="0.127" layer="45" curve="92.937601"/>
 <wire x1="-1" y1="1" x2="1" y2="1" width="0.127" layer="45"/>
 <wire x1="-1" y1="-1" x2="1" y2="-1" width="0.127" layer="45"/>
+<hole x="-0.4" y="0" drill="2"/>
+<hole x="0.4" y="0" drill="2"/>
 <wire x1="7.5" y1="-2.7" x2="7.5" y2="5.9" width="0.127" layer="21"/>
 <wire x1="7.5" y1="5.9" x2="7.5" y2="9.9" width="0.127" layer="21"/>
 <wire x1="6.25" y1="5.9" x2="-6.25" y2="5.9" width="0.127" layer="21"/>
@@ -312,13 +319,15 @@
 <wire x1="6.25" y1="5.9" x2="7.5" y2="5.9" width="0.127" layer="21"/>
 <text x="-6.85" y="4.1" size="1.016" layer="25">&gt;Name</text>
 <text x="-6.85" y="2.6" size="1.016" layer="27">&gt;Value</text>
-<hole x="0" y="0" drill="2.5"/>
 </package>
 <package name="1744426-6-NOSLOT">
+<hole x="0" y="0" drill="2"/>
 <wire x1="-1" y1="-1" x2="-1" y2="1" width="0.127" layer="45" curve="-92.937601"/>
 <wire x1="1" y1="-1" x2="1" y2="1" width="0.127" layer="45" curve="92.937601"/>
 <wire x1="-1" y1="1" x2="1" y2="1" width="0.127" layer="45"/>
 <wire x1="-1" y1="-1" x2="1" y2="-1" width="0.127" layer="45"/>
+<hole x="-0.4" y="0" drill="2"/>
+<hole x="0.4" y="0" drill="2"/>
 <wire x1="8.75" y1="-2.7" x2="8.75" y2="5.9" width="0.127" layer="21"/>
 <wire x1="8.75" y1="5.9" x2="8.75" y2="9.9" width="0.127" layer="21"/>
 <wire x1="7.5" y1="5.9" x2="-7.5" y2="5.9" width="0.127" layer="21"/>
@@ -339,7 +348,6 @@
 <wire x1="7.5" y1="5.9" x2="8.75" y2="5.9" width="0.127" layer="21"/>
 <text x="-8.1" y="4.1" size="1.016" layer="25">&gt;Name</text>
 <text x="-8.1" y="2.6" size="1.016" layer="27">&gt;Value</text>
-<hole x="0" y="0" drill="2.5"/>
 </package>
 </packages>
 <symbols>
@@ -449,19 +457,6 @@ Applies To Printed Circuit Board&lt;P&gt;
 <technology name=""/>
 </technologies>
 </device>
-<device name="NOSLOT" package="1744426-6-NOSLOT">
-<connects>
-<connect gate="G$1" pin="P$1" pad="P$1"/>
-<connect gate="G$1" pin="P$2" pad="P$2"/>
-<connect gate="G$1" pin="P$3" pad="P$3"/>
-<connect gate="G$1" pin="P$4" pad="P$4"/>
-<connect gate="G$1" pin="P$5" pad="P$5"/>
-<connect gate="G$1" pin="P$6" pad="P$6"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
 </devices>
 </deviceset>
 <deviceset name="HEADER-5WAY">
@@ -470,18 +465,6 @@ Applies To Printed Circuit Board&lt;P&gt;
 </gates>
 <devices>
 <device name="" package="1744426-5">
-<connects>
-<connect gate="G$1" pin="P$1" pad="P$1"/>
-<connect gate="G$1" pin="P$2" pad="P$2"/>
-<connect gate="G$1" pin="P$3" pad="P$3"/>
-<connect gate="G$1" pin="P$4" pad="P$4"/>
-<connect gate="G$1" pin="P$5" pad="P$5"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="NOSLOT" package="1744426-5-NOSLOT">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 <connect gate="G$1" pin="P$2" pad="P$2"/>
@@ -511,17 +494,6 @@ Applies To Printed Circuit Board&lt;P&gt;
 <technology name=""/>
 </technologies>
 </device>
-<device name="NOSLOT" package="1744426-4-NOSLOT">
-<connects>
-<connect gate="G$1" pin="P$1" pad="P$1"/>
-<connect gate="G$1" pin="P$2" pad="P$2"/>
-<connect gate="G$1" pin="P$3" pad="P$3"/>
-<connect gate="G$1" pin="P$4" pad="P$4"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
 </devices>
 </deviceset>
 <deviceset name="HEADER-3WAY">
@@ -539,16 +511,6 @@ Applies To Printed Circuit Board&lt;P&gt;
 <technology name=""/>
 </technologies>
 </device>
-<device name="NOSLOT" package="1744426-3-NOSLOT">
-<connects>
-<connect gate="G$1" pin="P$1" pad="P$1"/>
-<connect gate="G$1" pin="P$2" pad="P$2"/>
-<connect gate="G$1" pin="P$3" pad="P$3"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
 </devices>
 </deviceset>
 <deviceset name="HEADER-2WAY">
@@ -556,16 +518,7 @@ Applies To Printed Circuit Board&lt;P&gt;
 <gate name="G$1" symbol="CON-2WAY" x="0" y="0"/>
 </gates>
 <devices>
-<device name="BADHOLE" package="1744426-2">
-<connects>
-<connect gate="G$1" pin="P$1" pad="P$1"/>
-<connect gate="G$1" pin="P$2" pad="P$2"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="NOSLOT" package="1744426-2-NOSLOT">
+<device name="" package="1744426-2">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 <connect gate="G$1" pin="P$2" pad="P$2"/>
